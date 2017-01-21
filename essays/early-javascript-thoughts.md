@@ -1,6 +1,7 @@
 ---
 layout: essay
 type: essay
+image: images/javascript.png
 title: Early Javascript Thoughts
 date: 2017-01-19
 labels:

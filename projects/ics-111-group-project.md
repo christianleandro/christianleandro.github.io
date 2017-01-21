@@ -8,7 +8,7 @@ date: 2016
 labels:
  - Java
  - Group Project
-summary: Snake program made by group of 4 people in ICS 111.
+summary: Snake game made by group of 4 people in ICS 111.
 ---
 
 ICS 111 was the first programming class I took while majoring in Computer Science, and in this class we were taught Java. I had only known a little Python before taking this class, so this is where I learned about object oriented programming and everything that comes with it. In this class we all had invidual projects where we each had to make a stickerbook, but I thought it was more interesting to put the group project we worked on in this class here. We were a team of four and the idea we decided to run with was to remake the game Snake. In this game, players control a snake and you aren't allowed to run into your body or it's game over. Apples spawn randomly on the play field and when the snake eats one it gains in length and spawns another apple elsewhere. In some variants of snake you are allowed to "leave" the play area and your body will come out of the opposite side, but we decided to scope it down and make it game over if you hit the wall.

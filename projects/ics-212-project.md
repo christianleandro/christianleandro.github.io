@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/ics212-project.jpg
+image: images/ics212-project.png
 title: ICS 212 Project
-permalink: projects/micromouse
+permalink: projects/ics212-project
 date: 2016
 labels:
  - C++

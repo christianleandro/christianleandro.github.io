@@ -1,7 +1,6 @@
 ---
 layout: essay
 type: essay
-image: images/javascript.png
 title: Early Javascript Thoughts
 date: 2017-01-19
 labels:
@@ -11,7 +10,7 @@ labels:
 
 ## Javascript
 
-<img class="ui tiny right spaced image" src="images/javascript.png">
+<img class="ui tiny right spaced image" src="../images/javascript.png">
 
 After over a week of being introduced to the basic syntax of Javascript and solving some small problems with it, the first word that comes to mind about it is ‘interesting’. Now, I realize that the word interesting can be very unspecific and uninteresting in and of itself, but as someone who comes from a class-based object oriented background (Java, C++) with some procedural thrown into the mix (C), I do believe that that word accurately depicts my feelings on it. First off, as someone who has programmed mostly in Java and is used to arrays and data structures that can only hold one type of object, realizing that arrays in Javascript can hold multiple types of objects (string, number, etc.) was quite surprising. While I haven’t worked on any large or complicated projects in Javascript yet, I could see this aspect of the language throwing me off in some way and resulting in poor/inefficient solutions. Something else that surprised me was variables, which can hold multiple data types and whose types don’t have to be in the declaration (int, string, etc.).
 

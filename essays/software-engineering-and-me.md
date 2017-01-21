@@ -7,7 +7,7 @@ labels:
  - Software Engineering
 ---
 
-## Software Engineering and Me
+## My Story
 
 When I started college I was lost and adrift. The previous sentence certainly rings a bell to a large portion of college students today, but it rang painfully loudly for me. I had just finished high school and entered college with the realization that I had no true idea where my passions and interests lay. I spent a lot of time with computers and even worked a little with a family friend who ran a computer repair shop, but after a summer of that I knew I wasn't passionate enough about finding the right broken part to replace or cleaning viruses to make a career out of it. As you probably realize now, I was looking toward the wrong places with computers, but I digress. The common advice that I was given in college was to work on general education classes while trying out classes that interested me, so that's what I did. I tried accounting as several of my friends were going down that route and it seems like something I could see myself doing, but after one semester of an accounting class I concluded that it wasn't a job I was passionate enough about to do and be happy with for my life. I tried some other electives in my college classes, but it all led to the same road as accounting. I'll be honest, at some point I lost the motivation to try and find a career I was interested in. I autopiloted in community college just trying to get my liberal arts degree, not passionate about what I was doing, but with the thought that it was better than not going to school and just working my part-time job with no real career paths.
 

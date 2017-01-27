@@ -14,7 +14,7 @@ This may surprise people who have never programmed, but quite a large percentage
 
 ## Smart Question
 
-<img class="ui medium right spaced image" src="../images/check-mark.png">
+<img class="ui small right spaced image" src="../images/check-mark.png">
 [Example of Smart Question](http://stackoverflow.com/questions/41364383/if-an-element-already-exists-in-an-array-dont-add-it-again)
 
 Above is an example of a smart question, and it happens to be smart in multiple ways. First off, the title is adequately descriptive. It states the object that is the source of the problem and what he wanted to accomplish with it. Because of this, anybody scrolling through the various questions immediately knows what the poster is asking. By being descriptive, the poster ensures that it gets the attention of people who may have something to offer and raises the chances of getting the correct answer to the question. It also has the secondary effect of popping up in search engines when someone else asks the same or a similar question. While this doesn’t benefit the poster directly, it shows the connection between googling and asking the question on a forum yourself. If you know what to ask and how to ask it, then you will find the answer you’re looking for more quickly.

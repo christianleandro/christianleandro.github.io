@@ -8,7 +8,7 @@ labels:
  - Configuration Management
 ---
 
-<img class="ui small center spaced image" src="../images/github.png">
+<img class="ui medium center spaced image" src="../images/github.png">
 
 ## Configuration Management Thoughts
 

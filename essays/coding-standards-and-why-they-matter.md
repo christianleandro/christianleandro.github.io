@@ -16,7 +16,7 @@ Coding is very much the same way. A piece of code can by syntactically correct l
 
 ## ESLint
 
-<img class="ui medium right spaced image" src="../images/eslint.png">
+<img class="ui large center spaced image" src="../images/eslint.png">
 
 While having some standard guidelines is great, if you can't thoroughly enforce them then there isn't much point. Thankfully we live in great and advanced times, and there are tools out there we can use to enforce these standards. First off, we have IDEs (Integrated Development Environment), which come with great features like code completion, automatic compilers, and incorrect syntax detection. In addition to this are linters, which can detect code that doesn't follow a certain set of (customizable) guidelines, but is syntactically correct. 
 

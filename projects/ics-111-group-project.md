@@ -4,7 +4,7 @@ type: project
 image: images/ics-111-project.png
 title: ICS 111 Group Project
 permalink: projects/ics-11-project
-date: 2016
+date: 2017
 labels:
  - Java
  - Group Project

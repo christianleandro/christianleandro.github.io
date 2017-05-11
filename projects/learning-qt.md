@@ -4,7 +4,7 @@ type: project
 image: images/qt-project.png
 title: Learning Qt
 permalink: projects/learning-qt
-date: 2016
+date: 2017
 labels:
  - C++
  - Qt Framework
